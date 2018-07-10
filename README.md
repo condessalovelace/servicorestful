@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/condessalovelace/servicorestful.svg?branch=master)](https://travis-ci.org/condessalovelace/servicorestful) ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com.condessalovelace%3Aservicorestful&metric=alert_status)
+
 # servicorestful
 
 Projeto exemplo de implementação de um serviço Restful com nível 2 de maturidade no modelo Richardson usando Spring Boot.
